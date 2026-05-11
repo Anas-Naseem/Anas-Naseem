@@ -8,6 +8,14 @@ Backend Java Developer | Spring Boot | Kafka | AWS
 Building scalable backend systems and event-driven microservices
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Spring+Boot+Developer;Kafka+%7C+AWS+%7C+Microservices;Backend+System+Design+Engineer;JUnit+%7C+Mockito+%7C+TDD" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Anas-Naseem&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -42,7 +50,7 @@ Building scalable backend systems and event-driven microservices
 
 <table>
 <tr>
-<td>
+<td valign="top">
 
 ✅ REST API Development  
 ✅ Event Driven Architecture  
@@ -55,7 +63,7 @@ Building scalable backend systems and event-driven microservices
 
 </td>
 
-<td>
+<td valign="top">
 
 ✅ JUnit  
 ✅ Mockito  
@@ -92,9 +100,9 @@ Scalability, caching, retries, API gateway, and distributed systems concepts.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anas-Naseem&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Naseem&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Naseem&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -104,7 +112,7 @@ Scalability, caching, retries, API gateway, and distributed systems concepts.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Anas-Naseem&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -114,11 +122,11 @@ Scalability, caching, retries, API gateway, and distributed systems concepts.
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/mohd-anas-naseem/">
+<a href="https://www.linkedin.com/in/mohd-anas-naseem/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:anasnaseem77@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
 </a>
 
@@ -127,5 +135,5 @@ Scalability, caching, retries, API gateway, and distributed systems concepts.
 ---
 
 <p align="center">
-⭐ “Code. Scale. Optimize. Repeat.”
+⭐ <b>Code. Scale. Optimize. Repeat.</b>
 </p>
