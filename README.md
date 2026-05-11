@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋 I'm Mohd Anas
 
-<!--
-**Anas-Naseem/Anas-Naseem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Backend Java Developer
 
-Here are some ideas to get you started:
+Experienced in building scalable backend systems using:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Spring Boot
+- Kafka
+- AWS
+- Apache Camel
+- Hibernate
+- JPA
+- SQL
+- Jenkins
+- JUnit & Mockito
+- TDD
+- REST APIs
+- Database Tuning
+
+---
+
+## Current Focus
+
+- Distributed Systems
+- Event Driven Architecture
+- Microservices
+- High Performance APIs
+- System Design
+
+---
+
+## Tech Stack
+
+Java | Spring Boot | Kafka | AWS | Docker | Jenkins | SQL | Hibernate
+
+---
+
+## Featured Projects
+
+- Kafka Order Processing System
+- Apache Camel Integration Service
+- AWS Microservices Platform
+- Backend System Design Notes
+
+---
